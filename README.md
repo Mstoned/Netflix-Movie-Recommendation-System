@@ -1,5 +1,5 @@
 # Netflix Movie Recommendation System
-!--## Check out my blog on building a Recommender System at the following link:
+
 
 ## Business Problem 
 Netflix is all about connecting people to the movies they love. To help customers find those movies, they developed world-class movie recommendation system: CinematchSM. Its job is to predict whether someone will enjoy a movie based on how much they liked or disliked other movies. Netflix use those predictions to make personal movie recommendations based on each customer’s unique tastes. And while Cinematch is doing pretty well, it can always be made better.
@@ -10,11 +10,11 @@ Netflix provided a lot of anonymous rating data, and a prediction accuracy bar t
 ## Sources 
 * https://www.netflixprize.com/rules.html
 * https://www.kaggle.com/netflix-inc/netflix-prize-data
-* Netflix blog: https://medium.com/netflix-techblog/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429 (very nice blog)
-* surprise library: http://surpriselib.com/ (we use many models from this library)
-* surprise library doc: http://surprise.readthedocs.io/en/stable/getting_started.html (we use many models from this library)
+* Netflix blog: https://medium.com/netflix-techblog/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429 
+* surprise library: http://surpriselib.com/ 
+* surprise library doc: http://surprise.readthedocs.io/en/stable/getting_started.html
 * installing surprise: https://github.com/NicolasHug/Surprise#installation
-* Research paper: http://courses.ischool.berkeley.edu/i290-dm/s11/SECURE/a1-koren.pdf (most of our work was inspired by this paper)
+* Research paper: http://courses.ischool.berkeley.edu/i290-dm/s11/SECURE/a1-koren.pdf 
 * SVD Decomposition : https://www.youtube.com/watch?v=P5mlg91as1c
 ## Real world/Business Objectives and constraints 
 ### Objectives:
